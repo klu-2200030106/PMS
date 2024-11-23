@@ -11,7 +11,7 @@ public class ProductManagementSystemApplication
 	public static void main(String[] args) 
 	{
 		SpringApplication.run(ProductManagementSystemApplication.class, args);
-		System.out.println("Project is Running ... !!!");
+		System.out.println("Project is in Git ... !!!");
 	}
 
 }
